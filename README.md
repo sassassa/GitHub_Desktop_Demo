@@ -4,3 +4,4 @@
 2. Branch
 3. Merge
 4. Check
+5. Bash
