@@ -5,3 +5,4 @@
 3. Merge
 4. Edit from web
 4. Check
+5. Bash
